@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @praffulgadadasu
-- 👀 I’m Current Student from Deakin University-Melbourne pursuing Masters in IT with overall 2 years experience in Technical Programming and Developing applications based on Java,
+- 👀 I’m Recent Graduate from Deakin University-Melbourne pursuing Masters in IT with overall 2 years experience in Technical Programming and Developing applications based on Java,
 Python and extra 2 years of experience driving strategic initiatives across User Experience, Visual Design and Web Application apart from my current university learning years.
 My main objective is to contribute to the growth of an organization with my professional expertise and develop myself further in the process.
 - 🌱 I’m currently learning ...
