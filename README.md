@@ -1,18 +1,42 @@
-- 👋 Hi, I’m @praffulgadadasu
-- 👀 I’m Recent Graduate from Deakin University-Melbourne pursuing Masters in IT with overall 2 years experience in Technical Programming and Developing applications based on Java,
-Python and extra 2 years of experience driving strategic initiatives across User Experience, Visual Design and Web Application apart from my current university learning years.
-My main objective is to contribute to the growth of an organization with my professional expertise and develop myself further in the process.
-- 🌱 I’m currently learning ...
-1. Literature review on different methods of generating and detecting deepfakes.
-2. Knowledge of how to Implement one popular existing Entity service and regarding framework.
-3. Knowledge of how to design and developing a new detection algorithm (possibly based on the implemented existing algorithm.
-...shortly: Ruby as backend and Typescript as frontend
+# 👋 Hi there, I'm Prafful Gadadasu
 
-- 💞️ I’m looking to collaborate on any projects based on ...
-Full Stack Web Application Developer using Node.js, React.js & MongoDB.
-Python, .NET, Programming, Data Analysis, Deep Learning, AI methodologies, Analytical Skills, Reasoning Skills, Conceptual Thinking, Communication Skills.
-- 📫 How to reach me ...
-Connect with me on LinkedIn or reach out at praffultheja@gmail.com
+I'm a recent graduate from Deakin University (Melbourne) with a Master’s in Information Technology and over **2 years of hands-on experience in software development**. My technical journey includes building applications with **Java, Python, .NET, and modern JavaScript frameworks**, and a strong foundation in **data analysis, SQL, and data visualization** for actionable business insights.
+
+---
+
+## 🚀 About Me
+
+- 💡 **Passionate Problem Solver:** Skilled in designing, developing, and delivering high-quality software solutions, from backend APIs to interactive frontends.
+- 📊 **Data Analysis & Visualization:** Proficient in **SQL querying, Python analytics, and transforming raw data into insightful dashboards** using Power BI and other visualization tools.
+- 🖥️ **Full Stack Experience:** Experienced with **.NET (C#), Node.js, React.js, and MongoDB**—comfortable working across the stack and adapting to new technologies.
+- 🏆 **Strategic Thinker:** Proven ability to drive projects across user experience, visual design, and application development.
+
+---
+
+## 🌱 Currently Growing In
+
+- Advanced **data analysis and visualization** (SQL, Power BI, and BI dashboards).
+- Deepening expertise in **deepfake detection** (literature review, framework implementation, and algorithm design).
+- Enhancing skills in **Ruby (backend)** and **TypeScript (frontend)**.
+- Building robust, scalable solutions in cloud and serverless architectures.
+
+---
+
+## 🤝 Open to Collaborate On
+
+- **Full Stack Web Applications** (Node.js, React.js, .NET, MongoDB)
+- **Data Analysis & SQL Data Visualization** (Python, SQL, Power BI)
+- **Machine Learning & AI** (Deep Learning, Model Deployment)
+- Innovative projects blending analytical thinking, problem-solving, and software engineering.
+
+---
+
+## 📫 How to Reach Me
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/praffulthejagadadasu)
+- Email: praffultheja@gmail.com
+
+---
 
 <!---
 praffulgadadasu/praffulgadadasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
